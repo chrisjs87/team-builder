@@ -1,10 +1,10 @@
 # Module Project: Forms - Team Builder
 
-This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned about controled inputs, semantic HTML, some ES6 tools like the spread operator and computed properties, and synthetic events. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
+This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned about control'ed inputs, semantic HTML, some ES6 tools like the spread operator and computed properties, and synthetic events. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
 
 ## Introduction
 
-In this project you'll build an app that will keep track of memebers of a team. You'll be able to add members to this team as well as edit their details.
+In this project you'll build an app that will keep track of members of a team. You'll be able to add members to this team as well as edit their details.
 
 ## Instructions
 
@@ -82,4 +82,4 @@ After finishing your required elements, you can push your work further. These go
 
 ## Submission Format
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
